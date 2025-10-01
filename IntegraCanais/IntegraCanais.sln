@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegraCanais.API", "IntegraCanais.API\IntegraCanais.API.csproj", "{8E68954F-75B4-40F4-BBD8-D7FFFF28BA9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegraCanais.Core", "IntegraCanais.Core\IntegraCanais.Core.csproj", "{25E52E68-497D-4C56-AA77-29DDB5035BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegraCanais.Application", "IntegraCanais.Application\IntegraCanais.Application.csproj", "{A73EF449-7057-4C32-BBE1-392A6AD54066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegraCanais.Infra", "IntegraCanais.Infra\IntegraCanais.Infra.csproj", "{AA84B580-5A2B-4837-A59B-A57827D732E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegraCanais.Events", "IntegraCanais.Events\IntegraCanais.Events.csproj", "{1FBE59E8-941E-4A50-8ABC-AE4E0A578D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegraCanais.Tests", "IntegraCanais.Tests\IntegraCanais.Tests.csproj", "{83B762E5-0B79-4AEB-A937-B304278BFD21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegraCanais.Portal", "IntegraCanais.Portal\IntegraCanais.Portal.csproj", "{1E00C5A7-3FA6-4DB4-B3F9-3F15EC2E83A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E68954F-75B4-40F4-BBD8-D7FFFF28BA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E68954F-75B4-40F4-BBD8-D7FFFF28BA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E68954F-75B4-40F4-BBD8-D7FFFF28BA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E68954F-75B4-40F4-BBD8-D7FFFF28BA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E52E68-497D-4C56-AA77-29DDB5035BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E52E68-497D-4C56-AA77-29DDB5035BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E52E68-497D-4C56-AA77-29DDB5035BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E52E68-497D-4C56-AA77-29DDB5035BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73EF449-7057-4C32-BBE1-392A6AD54066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73EF449-7057-4C32-BBE1-392A6AD54066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73EF449-7057-4C32-BBE1-392A6AD54066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73EF449-7057-4C32-BBE1-392A6AD54066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA84B580-5A2B-4837-A59B-A57827D732E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA84B580-5A2B-4837-A59B-A57827D732E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA84B580-5A2B-4837-A59B-A57827D732E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA84B580-5A2B-4837-A59B-A57827D732E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBE59E8-941E-4A50-8ABC-AE4E0A578D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBE59E8-941E-4A50-8ABC-AE4E0A578D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBE59E8-941E-4A50-8ABC-AE4E0A578D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBE59E8-941E-4A50-8ABC-AE4E0A578D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B762E5-0B79-4AEB-A937-B304278BFD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B762E5-0B79-4AEB-A937-B304278BFD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B762E5-0B79-4AEB-A937-B304278BFD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B762E5-0B79-4AEB-A937-B304278BFD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E00C5A7-3FA6-4DB4-B3F9-3F15EC2E83A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E00C5A7-3FA6-4DB4-B3F9-3F15EC2E83A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E00C5A7-3FA6-4DB4-B3F9-3F15EC2E83A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E00C5A7-3FA6-4DB4-B3F9-3F15EC2E83A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

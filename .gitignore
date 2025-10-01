@@ -1,0 +1,53 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ASP.NET Core / Blazor
+wwwroot/
+node_modules/
+dist/
+.env
+.env.*
+
+## Visual Studio
+.vscode/
+.vs/
+*.dbmdl
+*.jfm
+
+## Rider
+.idea/
+
+## Logs
+*.log
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+
+## Entity Framework
+Migrations/
+
+## Dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Others
+*.dll
+*.exe
+*.bak
+*.tmp
+*.pdb
+*.cache
+*.config
